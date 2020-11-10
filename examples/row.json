@@ -1,0 +1,11 @@
+{
+  "portfolio": "default",
+  "type": "match",
+  "time": "2017-03-17T01:11:11.111Z",
+  "amount": "2.12345678",
+  "balance": "2.12345678",
+  "amount/balance unit": "LTC",
+  "transfer id": "",
+  "trade id": "12345",
+  "order id": "12345678-abcd-1234-abcd-123456789012"
+}

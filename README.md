@@ -1,2 +1,3 @@
-# coinbase-gains-calculator
-Calculate capital gains/losses from a coinbase account statement
+# coinbase-withdrawals-calculator
+
+Calculate balances, deposits and withdrawals from account statement.

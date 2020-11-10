@@ -1,0 +1,23 @@
+{
+  "name": "deposits-withdrawals-calculator",
+  "version": "1.0.0",
+  "description": "Calculate balances, deposits and withdrawals from account statement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtwphillips/coinbase-gains-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curtwphillips/coinbase-gains-calculator/issues"
+  },
+  "homepage": "https://github.com/curtwphillips/coinbase-gains-calculator#readme",
+  "dependencies": {
+    "fast-csv": "^4.3.5",
+    "mathjs": "^8.0.1"
+  }
+}
